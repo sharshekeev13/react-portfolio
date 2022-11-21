@@ -1,0 +1,58 @@
+{
+  "Name": "Dastan Sharshekeev",
+  "Title": "INAI Student =)",
+  "ProfilePic": "https://lh3.googleusercontent.com/a/ALm5wu2hE6JG5TPKWry7tcfGZMBkVU4BQ5Y7KTmVQfVHFw=s288-p-rw-no",
+  "About": {
+    "Location": "Kyrgyzstan, Bishkek",
+    "Phone": "+996 (501) 17 67 17",
+    "Email": "dastan.sharshekeevv@gmail.com",
+    "Description": "Dastan is very smart..."
+  },
+  "Education": [
+    {
+      "Degree": "Bachelors of Technology",
+      "Branch": "Computer Science",
+      "University": "Anna University",
+      "Description": "Bachelors of Technology in Computer Science Technology from Anna University and got an A++ so far...",
+      "GPA": "TBD",
+      "Dates": "Aug 2019 to Present"
+    }
+  ],
+  "Experience": [
+    {
+      "Role": "Java developer",
+      "Company": "Jupiter-Group",
+      "Description": "IT-company",
+      "Dates": "Sep 2022 to Present"
+    },
+    {
+      "Role": "Android developer",
+      "Company": "Jupiter-Group",
+      "Description": "IT-company",
+      "Dates": "Dec 2021 to Jul 2022"
+    }
+  ],
+  "Socials": {
+    "LinkedIn": "https://www.linkedin.com/in/sharshekeev13/",
+    "GitHub": "https://github.com/sharshekeev13"
+  },
+  "Skills": {
+    "Programming": [
+      "html5",
+      "css3-alt",
+      "js-square",
+      "react",
+      "java",
+      "kotlin",
+      "android developer"
+    ],
+    "Workflow": [
+      "Mobile-First, Responsive Design",
+      "Cross Browser Testing &amp; Debugging",
+      "Cross Functional Teams",
+      "Agile Development &amp; Scrum"
+    ]
+  },
+  "Interests": ["Something...", "Some more thing..."],
+  "Awards": ["First Cup", "First Cup"]
+}
